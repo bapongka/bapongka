@@ -6,9 +6,9 @@
 ### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
 
-🎓 I'm a fresh graduate
+- 🎓 I'm a fresh graduate
 
-💻 I’m currently learning ReactJS and Laravel 
+- 💻 I’m currently learning ReactJS and Laravel 
   
 - ⚡ Fun fact: I use tabs over spaces  
   
