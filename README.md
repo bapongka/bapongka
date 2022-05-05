@@ -16,7 +16,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 
 
@@ -30,7 +29,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
-</td></tr></table>  
+ 
 
 <br/>  
 
